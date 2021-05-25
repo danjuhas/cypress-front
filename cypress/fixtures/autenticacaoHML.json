@@ -1,0 +1,16 @@
+{
+    "emailSuccess": "email_sucesso@gmail.com",
+    "emailFailure": "email_failure@gmail.com",
+    "unregisteredEmail": "email@naocadastrado.com",
+    "invalidEmail": "132see.com",
+    "passwordSuccess": "123456",
+    "sequencialPassword": "123456",
+    "descendingPassword": "654321",
+    "equalValuePassword": "222222",
+    "newPasswordAndDelete": "989795{selectall}{backspace}",
+    "passwordEspecialCaracter": "Ab$#@!",
+    "passwordFailure": "989898",
+    "OldPasswordFailure": "080908",
+    "oldPasswordAndDelete": "090807{backspace}",
+    "ConfirmPasswordFailure": "080908"
+}

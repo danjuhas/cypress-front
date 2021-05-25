@@ -1,0 +1,4 @@
+{
+    "pod0": "cypress/integration/smoke/aplicacao/aplicacaoRendaFixa.spec.js,cypress/integration/smoke/aplicacao/aplicacaoPrevidenciaPrivada.spec.js,cypress/integration/smoke/autenticacao/logout.spec.js,cypress/integration/smoke/home/menu.spec.js,cypress/integration/smoke/home/homeLogada.spec.js,cypress/integration/smoke/meus-investimentos/meusInvestimentos.spec.js,cypress/integration/smoke/saque/contaBancaria.spec.js",
+    "pod1": "cypress/integration/smoke/aplicacao/aplicacaoFundos.spec.js,cypress/integration/smoke/aplicacao/aplicacaoTesouro.spec.js,cypress/integration/smoke/autenticacao/login.spec.js,cypress/integration/smoke/saque/saque.spec.js,cypress/integration/smoke/catalogo/filtro.spec.js,cypress/integration/smoke/autenticacao/senha.spec.js"
+}

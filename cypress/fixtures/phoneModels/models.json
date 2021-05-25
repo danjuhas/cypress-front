@@ -1,0 +1,27 @@
+{
+    "iphone-xr": {
+        "width": 414,
+        "height": 896,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/80.0.3987.95 Mobile/15E148 Safari/604.1"
+    },
+    "iphone-x": {
+        "width": 375,
+        "height": 812,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/80.0.3987.95 Mobile/15E148 Safari/604.1"
+    },
+    "iphone-8": {
+        "width": 375,
+        "height": 667,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/80.0.3987.95 Mobile/15E148 Safari/604.1"
+    },
+    "samsung-s10": {
+        "width": 360,
+        "height": 760,
+        "ua": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36"
+    },
+    "samsung-s7": {
+        "width": 414,
+        "height": 732,
+        "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36"
+    }
+}

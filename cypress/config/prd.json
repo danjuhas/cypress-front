@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://url.example_prd.com.br",
+  "env": {
+    "global_timeout": 100000,
+    "environment": "PRD",
+    "username": "examplo@examplo.com",
+    "password": "12345"
+  }
+}
